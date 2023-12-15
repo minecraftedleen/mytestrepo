@@ -16,4 +16,10 @@ public class TheClass {
         System.out.println("APCSA");
     }
 
+    public void thing() {
+        System.out.println("1");
+    }
+
+
+
 }
