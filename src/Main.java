@@ -5,5 +5,6 @@ public class Main {
         System.out.println("yes very");
         System.out.println("Hello");
         System.out.println("nopek");
+        System.out.println("yes.lol");
     }
 }
