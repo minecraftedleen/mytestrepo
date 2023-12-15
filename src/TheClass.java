@@ -12,14 +12,12 @@ public class TheClass {
         System.out.println("yay");
     }
 
-    public void partner2Method() {
-        System.out.println("APCSA");
+    public void testing() {
+        System.out.println("can't");
     }
 
     public void thing() {
         System.out.println("1");
     }
-
-
 
 }
