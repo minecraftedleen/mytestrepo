@@ -7,4 +7,5 @@ public class TheClass {
     public void firstMethod() {
         System.out.println("hello");
     }
+
 }
