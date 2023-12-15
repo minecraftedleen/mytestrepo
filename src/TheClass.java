@@ -12,4 +12,8 @@ public class TheClass {
         System.out.println("yay");
     }
 
+    public void testing() {
+        System.out.println("can't");
+    }
+
 }
