@@ -8,4 +8,8 @@ public class TheClass {
         System.out.println("hello");
     }
 
+    public void partner2Method() {
+        System.out.println("APCSA");
+    }
+
 }
