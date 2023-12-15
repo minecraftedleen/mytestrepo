@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("yes very");
         System.out.println("Hello");
-        System.out.println("nopek");
+        System.out.println("not anym9re");
         System.out.println("yes.lol");
     }
 }
